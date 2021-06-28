@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 3d8bc0392c52f084a800d20050429728
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cera Round Pro
+  fontNames:
+  - Cera Round Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6568f1d1bc88d0e458c3e05f2b981841, type: 3}
+  - {fileID: 12800000, guid: b5ba6d359831f144794b2beb8fabb325, type: 3}
+  - {fileID: 12800000, guid: 9c8cf07a6f41f88478dbca84f788b2c2, type: 3}
+  - {fileID: 12800000, guid: 79d3904d80359d74e8b4de9a622bcc1a, type: 3}
+  - {fileID: 12800000, guid: 82a2c5ce154eb4543b78f31277ef2bbe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

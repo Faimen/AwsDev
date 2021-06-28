@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0ad95a563dd2804aa2a6ef7b3c13b62, type: 3}
+  m_Name: PluginsConfig
+  m_EditorClassIdentifier: 
+  AppsFlyer:
+    AppId: 
+    AppKey: upqXCHz86iM7Pe6xT7e8YL
+    Debug: 0
+  AppLovin:
+    SdkKey: 5NQJ-Go6iJhpS_yCFNB-aRIG14EBroCx9cE7u0EbKwOnvL-8i97IbPTcUooKZ-FkbTsUU44q_TaupT1Wi9pIZM
+    AdUnit_Rewarded_Android: e54902e5263d19ed
+    AdUnit_Interstitial_Android: 
+    AdUnit_Rewarded_iOS: 
+    AdUnit_Interstitial_iOS: 
+  Server:
+    EnvironmentId: 1
+    BaseUrlProduction: http://skytest.org:8011
+    BaseUrlDevelop: http://skytest.org:8011
+    BaseUrlLocal: http://skytest.org:8011
+    ApiUrl: 
+    ApiVersion: 0
